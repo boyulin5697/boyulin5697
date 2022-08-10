@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am boyulin, I am a student interest in programming with Java, go;
+#### I am boyulin, I am a student interest in programming with Java, go (a n d  s o m e  f r o n t e n d;
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyulin5697&count_private=true)
