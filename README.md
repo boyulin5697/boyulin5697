@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### This is boyulin here, I am interesting in Java, Golang javaScript/typeScript web application development.
+#### This is boyulin here, I am interesting in Java, Golang and javaScript/typeScript web application development.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyulin5697&count_private=true)
